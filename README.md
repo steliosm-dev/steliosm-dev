@@ -1,14 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Stelios%20M.&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=CS%20Student%20%7C%20Networks%20%E2%80%A2%20Linux%20%E2%80%A2%20Programming%20%E2%80%A2%20Security&descSize=18&descAlignY=55&textBg=false"/>
 
-<p align="center">
-  <a href="https://x.com/0xSteliosM">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" width="35"/>
-  </a>
-  &nbsp;
-
 ## 👋 About Me
-
-Computer Science student interested in understanding, building, and securing modern systems.
 
 I enjoy coding, cooking, reading, and learning new things through curiosity and experimentation.
 
@@ -16,9 +8,9 @@ I enjoy coding, cooking, reading, and learning new things through curiosity and 
 ## 🎯 Focus Areas
 
 - 🌐 Network engineering
-- 🐧 Linux systems
-- 🐍 Python automation
-- 🔐 Cybersecurity fundamentals
+- 🐧 Linux
+- 🐍 Programming
+- 🔐 Cybersecurity 
 
 
 
